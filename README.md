@@ -1,10 +1,9 @@
 
 ## NEXT JS 세팅
 
-npx create-next-app "이름"
-
 
 ```bash
+npx create-next-app "이름"
 npm run dev
 ```
 
