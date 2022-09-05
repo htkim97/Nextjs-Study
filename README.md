@@ -1,5 +1,5 @@
 
-## NEXT JS 세팅
+## NEXT JS 설치
 
 
 ```bash
